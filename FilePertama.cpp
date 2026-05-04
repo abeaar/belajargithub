@@ -7,8 +7,6 @@
 
 #include "FilePertama.hpp"
 
+cout << "ini branch dev" << endl;
 cout << "testing" << endl;
-cout << "tambah line" << endl;
-cout << "yamete" << endl;
-cout << "token goblok" << endl;
-cout << "emang kimak" << endl;
+
