@@ -8,3 +8,4 @@
 #include "FilePertama.hpp"
 
 cout << "testing" << endl;
+cout << "tambah line" << endl;
