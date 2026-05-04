@@ -9,3 +9,4 @@
 
 cout << "testing" << endl;
 cout << "tambah line" << endl;
+cout << "yamete" << endl;
